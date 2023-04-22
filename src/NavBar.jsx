@@ -17,7 +17,7 @@ export default function NavBar() {
             <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
                 <div>
                     <div className="flex items-center justify-between py-3 md:py-5 md:block">
-                        <Link to={'/uo-new/'}>
+                        <Link to={'/CentrEd/'}>
                         <img className="object-contain object-center w-24 h-24 md:w-16 md:h-16" src={require('./Images/uo2.png')}></img>
                         </Link>
                         <div className="md:hidden">
