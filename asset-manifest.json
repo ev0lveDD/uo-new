@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/uo-new/static/css/main.25315daa.css",
-    "main.js": "/uo-new/static/js/main.19480782.js",
-    "static/js/787.a990e0d3.chunk.js": "/uo-new/static/js/787.a990e0d3.chunk.js",
-    "static/media/bhg3.png": "/uo-new/static/media/bhg3.c8a6467f97b1e209f1d8.png",
-    "static/media/uo2.png": "/uo-new/static/media/uo2.6824bfdbe976d9f4402e.png",
-    "index.html": "/uo-new/index.html",
-    "main.25315daa.css.map": "/uo-new/static/css/main.25315daa.css.map",
-    "main.19480782.js.map": "/uo-new/static/js/main.19480782.js.map",
-    "787.a990e0d3.chunk.js.map": "/uo-new/static/js/787.a990e0d3.chunk.js.map"
+    "main.css": "/CentrEd/static/css/main.41bf6aaf.css",
+    "main.js": "/CentrEd/static/js/main.688adb53.js",
+    "static/js/787.a990e0d3.chunk.js": "/CentrEd/static/js/787.a990e0d3.chunk.js",
+    "static/media/bhg3.png": "/CentrEd/static/media/bhg3.c8a6467f97b1e209f1d8.png",
+    "static/media/uo2.png": "/CentrEd/static/media/uo2.6824bfdbe976d9f4402e.png",
+    "index.html": "/CentrEd/index.html",
+    "main.41bf6aaf.css.map": "/CentrEd/static/css/main.41bf6aaf.css.map",
+    "main.688adb53.js.map": "/CentrEd/static/js/main.688adb53.js.map",
+    "787.a990e0d3.chunk.js.map": "/CentrEd/static/js/787.a990e0d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25315daa.css",
-    "static/js/main.19480782.js"
+    "static/css/main.41bf6aaf.css",
+    "static/js/main.688adb53.js"
   ]
 }
