@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/CentrEd/static/css/main.41bf6aaf.css",
-    "main.js": "/CentrEd/static/js/main.688adb53.js",
+    "main.js": "/CentrEd/static/js/main.64c32438.js",
     "static/js/787.a990e0d3.chunk.js": "/CentrEd/static/js/787.a990e0d3.chunk.js",
     "static/media/bhg3.png": "/CentrEd/static/media/bhg3.c8a6467f97b1e209f1d8.png",
     "static/media/uo2.png": "/CentrEd/static/media/uo2.6824bfdbe976d9f4402e.png",
     "index.html": "/CentrEd/index.html",
     "main.41bf6aaf.css.map": "/CentrEd/static/css/main.41bf6aaf.css.map",
-    "main.688adb53.js.map": "/CentrEd/static/js/main.688adb53.js.map",
+    "main.64c32438.js.map": "/CentrEd/static/js/main.64c32438.js.map",
     "787.a990e0d3.chunk.js.map": "/CentrEd/static/js/787.a990e0d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41bf6aaf.css",
-    "static/js/main.688adb53.js"
+    "static/js/main.64c32438.js"
   ]
 }
